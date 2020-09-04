@@ -1,5 +1,6 @@
 # AlchimiaApp React Firebase AWS-S3
 
+<h2> Red social profesional donde podrás encontrar compañeros para emprender un nuevo negocio o idea.</h2>
 
 
 Demo:
