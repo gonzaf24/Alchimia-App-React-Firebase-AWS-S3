@@ -12,23 +12,23 @@ o bien puedes registrarte y crear tu propio perfil. Adelante !
 
 <h4> Alchimia </h4>
 
-Firebase --------------- (Realtime database) </br>
-ApolloClient ----------- (hacer consultas a APIs de GraphQL)</br>
-GraphQL ---------------- (lenguaje de consulta para API)</br>
-Reach Router ----------- (enrutador)</br>
-Material UI ------------ (Material Design)</br>
-Webpack ---------------- (herramienta de compilación)</br>
-Babel ------------------ (compilador de JavaScript)</br>
-PWA -------------------- (Progressive Web App)</br>
-Apollo React Hooks ----- (Ganchos como: useQuery, useMutation)</br>
+Firebase ------------ (Realtime database) </br>
+ApolloClient ------- (hacer consultas a APIs de GraphQL)</br>
+GraphQL ------------ (lenguaje de consulta para API)</br>
+Reach Router ------- (enrutador)</br>
+Material UI -------- (Material Design)</br>
+Webpack ------------ (herramienta de compilación)</br>
+Babel -------------- (compilador de JavaScript)</br>
+PWA ---------------- (Progressive Web App)</br>
+Apollo React Hooks - (Ganchos como: useQuery, useMutation)</br>
 
  
-<h4> Function API </h4>
+<h4> Functions API </h4>
 
-ApolloServer express --- (servidor GraphQL de código abierto)</br>
-GraphQL ---------------- (lenguaje de consulta para API)</br>
-Firebase --------------- (Realtime database , admin , functions)</br>
-Node.js 10 ------------- (entorno de ejecución)</br>
+ApolloServer express - (servidor GraphQL de código abierto)</br>
+GraphQL -------------- (lenguaje de consulta para API)</br>
+Firebase ------------- (Realtime database , admin , functions)</br>
+Node.js 10 ----------- (entorno de ejecución)</br>
 
 
 
@@ -45,16 +45,21 @@ Principal / Inicio Session / Registro
 HOME (muro principal donde se ven los ultimos usuarios registrados , asi como los nuevos elementos creados por estos , tanto albums , podcasts , actividades).
 
 
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/InicioRegistro.png">
+
 BUSCADOR (aquí podrás encontrar perfiles registrados por pais/ciudad/profesion).
 
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Buscar.png">
 
 ADMINISTRACION  (aquí podrás crear y administrar lo que quieras mostrar en tu perfil , albums, podcasts, actividades).
 
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion_1.png">
 
 PERFIL (aquí podrás ver tu perfil , editar tu informacion personal y cerrar sesión).
 
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Perfil.png">
 
 MENSAJES (aquí tienes un chat en tiempo real con el que podras interacturar/hablar con otros emprendedores registrados).
 
-
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes_1.png">
 
