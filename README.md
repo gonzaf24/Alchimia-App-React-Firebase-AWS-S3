@@ -53,7 +53,7 @@ Principal / Inicio Session / Registro
 
 <h5>ADMINISTRACION</h5>  (aquí podrás crear y administrar lo que quieras mostrar en tu perfil , albums, podcasts, actividades).
 
-<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion_1.png">
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion.png">
 
 <h5>PERFIL</h5> (aquí podrás ver tu perfil , editar tu informacion personal y cerrar sesión).
 
