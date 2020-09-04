@@ -40,26 +40,23 @@ Aqui unas capturas de pantallas:
 
 Principal / Inicio Session / Registro
 
-
-
 <h5>HOME</h5> (muro principal donde se ven los ultimos usuarios registrados , asi como los nuevos elementos creados por estos , tanto albums , podcasts , actividades).
-</br>
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/InicioRegistro.png">
 
 <h5>BUSCADOR</h5> (aquí podrás encontrar perfiles registrados por pais/ciudad/profesion).
-</br>
+
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Buscar.png">
 
 <h5>ADMINISTRACION</h5>  (aquí podrás crear y administrar lo que quieras mostrar en tu perfil , albums, podcasts, actividades).
-</br>
+
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion_2.png">
 
 <h5>PERFIL</h5> (aquí podrás ver tu perfil , editar tu informacion personal y cerrar sesión).
-</br>
+
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Perfil.png">
 
 <h5>MENSAJES</h5> (aquí tienes un chat en tiempo real con el que podras interacturar/hablar con otros emprendedores registrados).
-</br>
+
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes_1.png">
 
