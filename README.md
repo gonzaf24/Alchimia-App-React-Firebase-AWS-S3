@@ -32,7 +32,7 @@ Node.js 10 ----------- (entorno de ejecución)</br>
 
 
 
-Alchim¡a App , es una PWA en la cual podras encontrar compañeros para emprender un nuevo negocio , idea o startUp. Los registrados aqui no estan para venderte un servicio sino  
+Alchimia App , es una PWA en la cual podras encontrar compañeros para emprender un nuevo negocio , idea o startUp. Los registrados aqui no estan para venderte un servicio sino  
 
 Esta app podrás crear tu perfil con tu profesión e intereses. Podras mostrar lo que haces por medio de Albums y Podcasts. También podras crear actividades y citar a que otros de anoten a estas. 
 
@@ -42,24 +42,24 @@ Principal / Inicio Session / Registro
 
 
 
-HOME (muro principal donde se ven los ultimos usuarios registrados , asi como los nuevos elementos creados por estos , tanto albums , podcasts , actividades).
+<h5>HOME</h5> (muro principal donde se ven los ultimos usuarios registrados , asi como los nuevos elementos creados por estos , tanto albums , podcasts , actividades).
 
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/InicioRegistro.png">
 
-BUSCADOR (aquí podrás encontrar perfiles registrados por pais/ciudad/profesion).
+<h5>BUSCADOR</h5> (aquí podrás encontrar perfiles registrados por pais/ciudad/profesion).
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Buscar.png">
 
-ADMINISTRACION  (aquí podrás crear y administrar lo que quieras mostrar en tu perfil , albums, podcasts, actividades).
+<h5>ADMINISTRACION</h5>  (aquí podrás crear y administrar lo que quieras mostrar en tu perfil , albums, podcasts, actividades).
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Administracion_1.png">
 
-PERFIL (aquí podrás ver tu perfil , editar tu informacion personal y cerrar sesión).
+<h5>PERFIL</h5> (aquí podrás ver tu perfil , editar tu informacion personal y cerrar sesión).
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Perfil.png">
 
-MENSAJES (aquí tienes un chat en tiempo real con el que podras interacturar/hablar con otros emprendedores registrados).
+<h5>MENSAJES</h5> (aquí tienes un chat en tiempo real con el que podras interacturar/hablar con otros emprendedores registrados).
 
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes.png"> <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/Mensajes_1.png">
 
