@@ -33,7 +33,7 @@ Node.js 10 ----------- (entorno de ejecución)</br>
 
 
 
-Alchimia App , es una PWA en la cual podras encontrar compañeros para emprender un nuevo negocio , idea o startUp. Los registrados aqui no estan para venderte un servicio sino  
+Alchimia App , es una PWA en la cual podras encontrar compañeros para emprender un nuevo negocio , idea o startUp. Los registrados aqui no estan para venderte un servicio sino para colaborar contigo y crear algo nuevo. 
 
 Esta app podrás crear tu perfil con tu profesión e intereses. Podras mostrar lo que haces por medio de Albums y Podcasts. También podras crear actividades y citar a que otros de anoten a estas. 
 
