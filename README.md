@@ -39,11 +39,13 @@ Esta app podrás crear tu perfil con tu profesión e intereses. Podras mostrar l
 
 Aqui unas capturas de pantallas: 
 
-Principal / Inicio Session / Registro
+<h5>Principal / Inicio Session / Registro</h5>
+
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/InicioRegistro.png">
 
 <h5>HOME</h5> (muro principal donde se ven los ultimos usuarios registrados , asi como los nuevos elementos creados por estos , tanto albums , podcasts , actividades).
 
-<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/InicioRegistro.png">
+<img src= "https://alchimia.s3.us-east-2.amazonaws.com/utils/Home.png">
 
 <h5>BUSCADOR</h5> (aquí podrás encontrar perfiles registrados por pais/ciudad/profesion).
 
