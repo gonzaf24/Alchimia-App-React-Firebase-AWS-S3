@@ -6,7 +6,7 @@
 Demo:
 <h3> www.alchimia.app </h3>
 
-user demo : gon@gon.com
+user demo : gon@gon.com <br/>
 pass demo : gonzalo
 
 o bien puedes registrarte y crear tu propio perfil. Adelante ! 
